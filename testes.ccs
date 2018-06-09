@@ -18,7 +18,7 @@ root {
 	margin-right: auto;
 	margin-top: 0;
 	margin-left: auto;
-        background: url(logo2.png) no-repeat left 100px;
+        background: url(https://raw.githubusercontent.com/ROBSONATALVES/ARDUINO/master/logo2.png) no-repeat left 100px;
         font-size: 30px;
         color: gray;
         text-align: center;
@@ -32,7 +32,7 @@ div.rele_ligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(modulo_rele_on.png) no-repeat left top;
+    background: url(https://raw.githubusercontent.com/ROBSONATALVES/ARDUINO/master/modulo_rele_on.png) no-repeat left top;
 }
 
 div.rele_desligado {
@@ -42,7 +42,7 @@ div.rele_desligado {
     width: 300px;
     height: 206px;
     border: none;
-    background: url(modulo_rele.png) no-repeat 0 center;
+    background: url(https://raw.githubusercontent.com/ROBSONATALVES/ARDUINO/master/modulo_rele.png) no-repeat 0 center;
 }
 
 #botao{
